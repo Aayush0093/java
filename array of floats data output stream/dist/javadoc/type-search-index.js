@@ -1,0 +1,1 @@
+typeSearchIndex = [{"l":"All Classes and Interfaces","u":"allclasses-index.html"},{"p":"array.of.floats.data.output.stream","l":"ArrayOfFloatsDataOutputStream"}];updateSearchResults();
