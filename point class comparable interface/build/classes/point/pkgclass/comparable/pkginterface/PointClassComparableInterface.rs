@@ -1,0 +1,2 @@
+point.pkgclass.comparable.pkginterface.PointClassComparableInterface
+point.pkgclass.comparable.pkginterface.Point
