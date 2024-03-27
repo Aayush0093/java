@@ -1,0 +1,6 @@
+#Laptop
+#Mon Dec 18 18:54:45 IST 2023
+Brand=Samsung
+Model=Latitude
+OS=Windows
+Processor=i7
